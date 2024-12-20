@@ -1,5 +1,5 @@
 "UnlitGeneric"
 {
-	"$basetexture" "npc_xshitter/xshitter"
+	"$basetexture" "nextbot/npc_xshitter/xshitter"
 	"$alphatest" 1
 }
